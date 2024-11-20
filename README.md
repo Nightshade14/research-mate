@@ -3,6 +3,6 @@ The research-mate would use a Contextual-RAG (Anthropic AI's latest research on 
 
 ## Technologies
 - Server: Flask
-- Cloud: AWS
+- Cloud: AWS (EC2)
 - Vector DB: Pinecone
 - LLM: Llama 3.2 8B
