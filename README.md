@@ -28,9 +28,9 @@ This has the raw pdfs as well as the parsed text files.
 
 
 # Large Language Models
-- LLama3.2: We hosted this on GCP Cloud Run.
+- LLama3.2 8B: We hosted this on GCP Cloud Run.
 - LLmaa3.3: A hosted model that we used from Together.ai
-- Gemini1.5: A hosted model that we used from VertexAI
+- Gemini1.5 flash: A hosted model that we used from VertexAI
 
 # Application Video
 [https://youtu.be/qambwG9ZCnY](https://youtu.be/qambwG9ZCnY)
