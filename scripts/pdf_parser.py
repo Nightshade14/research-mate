@@ -17,6 +17,7 @@ paper_id_counter = 1
 # Dictionary to store the cleaned_filename as key and [S3 link, paperID] as value
 filename_metadata = {}
 
+
 def s3_upload(file_path):
     """
     Uploads a file to S3 and returns the public URL. 
@@ -90,7 +91,7 @@ def process_pdfs_in_folder(folder_path):
                 print(f"Error processing {filename}: {e}")
 
 # Usage
-folder_path = '/Users/shreyasnyu/Documents/projects/cloud/dataset'
+folder_path = '/Users/satyam/Documents/projects/cloud/dataset'
 if os.path.exists(folder_path):
     process_pdfs_in_folder(folder_path)
     metadata_file_path = "/Users/shreyasnyu/Documents/projects/cloud/ResearchLLM/pdf_metadata3.json"  # Adjust the file name/path as needed
