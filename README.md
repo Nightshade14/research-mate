@@ -1,7 +1,7 @@
 # Cloud Based Research Paper Summarization Tool
 A cloud based research paper summarizer tool. The application has the following capabilities:
 - Query through our 3000+ research paper dataset
-- Query a particular research that is uploaded by the user
+- Query a particular research paper that is uploaded by the user
 - Get summarizes of any paper that is uploaded
 
 
