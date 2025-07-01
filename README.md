@@ -2,11 +2,11 @@
 An AI-powered research platform that enables users to upload, search, and query document collections against selectable Large Language Models for grounded, context-aware analysis.
 
 ## Key Features
-- **Intelligent Document Search**: Query through our 3000+ research paper dataset with advanced RAG capabilities
-- **Multi-LLM Support**: Choose from Llama 3.2 8B, Llama 3.3 70B, and Gemini 1.5 Flash for optimal performance
+- **Intelligent Document Search**: Query through our `3000+ research paper` dataset with advanced RAG capabilities
+- **Multi-LLM Support**: Choose from `Llama 3.2 8B` (Self-hosted with vLLM), `Llama 3.3 70B` (Accessed through TogetherAI API), and `Gemini 1.5 Flash` (Accessed through GCP CLoud Run and Vertex AI) for optimal performance
 - **Document Upload & Analysis**: Upload research papers and get AI-powered summaries and question-answering
-- **High Performance RAG**: Engineered RAG engine achieving 95% Recall@10 using Anthropic AI's Contextual Retrieval research
-- **Optimized Pipeline**: 7x speedup and 85% memory reduction through quantization techniques
+- **High Performance RAG**: Engineered RAG engine achieving `95% Recall@10` using `Anthropic AI's Contextual Retrieval research`
+- **Optimized Pipeline**: `7x speedup`and `85% memory reduction` through `quantization` techniques
 
 
 # User flow
