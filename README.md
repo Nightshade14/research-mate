@@ -1,5 +1,5 @@
 # Research-mate: Agentic RAG Platform
-An AI-powered research platform that enables users to upload, search, and query document collections against selectable Large Language Models for grounded, context-aware analysis.
+An AI-powered research platform that enables users to upload, search, and query research papers against selectable Large Language Models for grounded, context-aware analysis.
 
 ## Key Features
 - **Intelligent Document Search**: Query through our `3000+ research paper` dataset with advanced RAG capabilities
@@ -80,4 +80,3 @@ This has the raw pdfs as well as the parsed text files.
 
 <img width="1707" alt="Query Page" src="https://github.com/user-attachments/assets/361891ca-a609-4aa7-8e6b-531285e56ba3" />
 <img width="1707" alt="Search Page" src="https://github.com/user-attachments/assets/873aedae-bba6-429e-b4cf-50dd5597b2e1" />
-
